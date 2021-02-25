@@ -1,0 +1,38 @@
+
+
+.user-container{
+  border: 1px solid rgb(255, 102, 0);
+  text-align: justify;
+  padding: 20px 0px 20px 20px;
+}
+.user-container>img{
+  margin-left: 120px;
+}
+.anchor-a>h6{
+  text-transform: capitalize;
+  font-weight: 700;
+  line-height: 25px;
+  color: #0084ff;
+}
+.news-card{
+  border: 1px solid rgba(65, 65, 65, 0.308);
+  margin-top: 30px;
+  padding: 20px 20px 20px 20px;
+  text-align: justify;
+  border-radius: 5px;
+}
+.anchor-a{
+  color:black;
+}
+.anchor-a:hover{
+  text-decoration: none;
+  color:black;
+}
+
+.anchor-a>img{
+  width:100%;
+  height:100%;
+  border-radius: 5px;
+  margin-top: 20px;
+
+}

@@ -1,0 +1,30 @@
+.mealDeatailsCard {
+  margin-top: 30px;
+  border: 2px solid rgba(61, 61, 61, 0.151);
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  -webkit-box-shadow: -3px 5px 18px -8px rgba(0, 0, 0, 0.48);
+  box-shadow: -3px 5px 18px -8px rgba(0, 0, 0, 0.48);
+  text-align: center;
+}
+
+.mealDeatailsCard>img {
+  width: 100%;
+  margin-top: 10px;
+  border-radius: 10px
+}
+.mealDeatailsCard>small{
+  background-color: rgba(228, 228, 228, 0.507);
+  display:block;
+  padding: 5px 0px 5px 0px;
+  letter-spacing: 3px;
+  font-weight: 700;
+}
+.btn {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.searchBtn {
+  margin-top: 0px;
+}
